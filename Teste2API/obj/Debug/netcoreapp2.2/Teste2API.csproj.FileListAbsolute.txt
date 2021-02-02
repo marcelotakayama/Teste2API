@@ -12,3 +12,6 @@ C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcor
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.RazorTargetAssemblyInfo.cache
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.dll
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.pdb
+C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.genruntimeconfig.cache
