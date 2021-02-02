@@ -10,7 +10,7 @@ using Teste2API.Models;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Teste2API.Controllers {
-    [Route("api/[controller]")]
+    [Route("api/[todo]")]
     [ApiController]
     public class TodoController : ControllerBase {
         private readonly TodoContext _context;
