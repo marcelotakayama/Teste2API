@@ -3,7 +3,6 @@ C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\bin\Debug\netcor
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\bin\Debug\netcoreapp2.2\Teste2API.runtimeconfig.dev.json
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\bin\Debug\netcoreapp2.2\Teste2API.dll
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\bin\Debug\netcoreapp2.2\Teste2API.pdb
-C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.csprojAssemblyReference.cache
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.csproj.CoreCompileInputs.cache
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.RazorAssemblyInfo.cache
 C:\Users\mntakayama\Documents\Repositórios\Teste2API\Teste2API\obj\Debug\netcoreapp2.2\Teste2API.RazorAssemblyInfo.cs
